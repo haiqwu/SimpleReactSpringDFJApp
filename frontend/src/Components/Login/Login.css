@@ -1,0 +1,8 @@
+.auth-form,
+.title,
+.err{
+    width: 25rem;
+    max-width: 80%;
+    margin: 1rem auto;
+}
+
